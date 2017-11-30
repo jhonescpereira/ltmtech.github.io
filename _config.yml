@@ -23,7 +23,7 @@ user_title: Software Developer
 title: LTM Tech
 email: Jhonescpereira@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Olá, Eu sou o Jhones. Bem-vindo a LTM Tech (Live the moment). Segue abaixo algumas de minhas qualificações. 
+  Olá, Eu sou o Jhones. Bem-vindo a LTM (Live the moment). Segue abaixo algumas de minhas qualificações. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
